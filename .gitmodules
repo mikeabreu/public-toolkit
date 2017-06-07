@@ -1,0 +1,24 @@
+[submodule "Empire"]
+	path = Empire
+	url = https://github.com/EmpireProject/Empire
+[submodule "CrackMapExec"]
+	path = CrackMapExec
+	url = https://github.com/byt3bl33d3r/CrackMapExec
+[submodule "BloodHound"]
+	path = BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/lgandx/Responder
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/CoreSecurity/impacket
+[submodule "betterdefaultpasslist"]
+	path = betterdefaultpasslist
+	url = https://github.com/govolution/betterdefaultpasslist
+[submodule "snarf"]
+	path = snarf
+	url = https://github.com/purpleteam/snarf
