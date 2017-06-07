@@ -22,3 +22,21 @@
 [submodule "snarf"]
 	path = snarf
 	url = https://github.com/purpleteam/snarf
+[submodule "q"]
+	path = q
+	url = https://github.com/pwnwiki/q
+[submodule "post-exploitation"]
+	path = post-exploitation
+	url = https://github.com/mubix/post-exploitation
+[submodule "PowerLessShell"]
+	path = PowerLessShell
+	url = https://github.com/Mr-Un1k0d3r/PowerLessShell
+[submodule "nps"]
+	path = nps
+	url = https://github.com/Ben0xA/nps
+[submodule "PowerForensics"]
+	path = PowerForensics
+	url = https://github.com/Invoke-IR/PowerForensics
+[submodule "windows-privesc-check"]
+	path = windows-privesc-check
+	url = https://github.com/pentestmonkey/windows-privesc-check
